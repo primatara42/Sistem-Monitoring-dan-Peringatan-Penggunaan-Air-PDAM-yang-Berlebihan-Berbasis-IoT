@@ -2,7 +2,9 @@
 
 Repo ini adalah hasil dari perancangan sebuah sistem untuk melakukan monitoring dan peringatan penggunaan air PDAM yang berlebihan berbasis 
 Internet of Things.Sistem pada alat ini menggunakan NodeMCU ESP8266 sebagai mikrokontroler dan sensor water flow tipe YF-S201 yang mampu 
-mengukur air dengan debit air sampai 30L/menit.
+mengukur air dengan debit air sampai 30L/menit. Projek ini juga merupakan hasil dari Tugas Akhir yang saya kerjakan di tahun 2022 silam yang berjudul 
+"PURWARUPA SISTEM MONITORING DAN PERINGATAN JUMLAH PEMAKAIAN AIR PDAM YANG BERLEBIHAN BERBASIS INTERNET OF THINGS" yang dibuat ketika 
+saya masih menjadi mahasiswa di Universitas Sriwijaya Prodi D3 Teknik Komputer.
 
 # Source Code dan Video Demonstrasi
 
